@@ -1,1 +1,2 @@
-This is only for test
+This is dice roller
+
